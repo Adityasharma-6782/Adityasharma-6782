@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya  
 
-<!--
-**Adityasharma-6782/Adityasharma-6782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Aspiring Software Developer | 🚀 DSA Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me  
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💡 Interested in **Web Development & Backend**
+- 🛠️ Working with **Python, C++, MySQL**
+- 📚 Improving problem-solving skills daily
+- 🎯 Goal: Become a Full Stack Developer
+
+---
+
+## 🧠 Skills  
+
+### 👨‍💻 Programming Languages
+- Python 🐍  
+- C++  
+- C  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- Basic JavaScript  
+
+### 🗄️ Database
+- MySQL  
+
+---
+
+## 📈 GitHub Stats  
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📌 Top Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: (Add your LinkedIn link here)  
+- 🌐 Portfolio: (Add your portfolio link here)  
+
+---
+
+⭐ *"Consistency beats motivation."*  
