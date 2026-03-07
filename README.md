@@ -38,9 +38,9 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityasharma-6782\&show_icons=true\&theme=tokyonight)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityasharma-6782&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -50,9 +50,9 @@
 
 ---
 
-# 📌 Top Languages
+## 📌 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasharma-6782\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasharma-6782&layout=compact&theme=tokyonight)
 
 ---
 
@@ -62,10 +62,9 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Adityasharma-6782/Adityasharma-6782/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 # 📂 Featured Projects
