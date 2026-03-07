@@ -23,9 +23,8 @@
 
 ### 👨‍💻 Programming Languages
 
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
+<img src="https://edge1s.com/wp-content/uploads/2025/05/C-C.gif" width="20%"> <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" width="16%">
+
 
 ### 🌐 Web Development
 
