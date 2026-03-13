@@ -99,10 +99,11 @@ Collection of **Data Structures & Algorithms problems and solutions**.
 https://github.com/Adityasharma-6782
 
 💼 LinkedIn
-(Add your LinkedIn here)
+https://www.linkedin.com/in/aditya-sharma-830543339?
+
 
 📧 Email
-(Add your Email here)
+sharmaadi6782@gmail.com
 
 ---
 
