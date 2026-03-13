@@ -61,14 +61,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/AdityaSharma/AdityaSharma/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 📂 Featured Projects
 
 ## 🔢 Calculator
