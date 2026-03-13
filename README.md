@@ -63,7 +63,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Adityasharma-6782/Adityasharma-6782/blob/output/github-contribution-grid-snake.svg)
+!(https://github.com/Adityasharma-6782/Adityasharma-6782/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 📂 Featured Projects
