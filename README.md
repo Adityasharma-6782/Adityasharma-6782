@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aditya Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;DSA+Enthusiast;Learning+Python+and+DBMS;Full+Stack+Developer+in+Progress&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;DSA+Enthusiast;Learning+Python+and+DBMS">
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
 
