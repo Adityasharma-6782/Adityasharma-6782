@@ -23,7 +23,8 @@
 
 ### 👨‍💻 Programming Languages
 
-<img src="https://edge1s.com/wp-content/uploads/2025/05/C-C.gif" width="20%"> <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" width="16%">
+<img src="https://edge1s.com/wp-content/uploads/2025/05/C-C.gif" width="20%"> <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" width="16%">  <img width="16%" alt="image" src="https://github.com/user-attachments/assets/2c9ee2f0-68db-4fc4-a3a7-3ef9dc413b8f" /> <img width="16%" alt="image" src="https://github.com/user-attachments/assets/d06e2d92-1329-4eb0-87f9-631d67532582" /> <img width="16%" alt="image" src="https://github.com/user-attachments/assets/830e718c-f503-44f4-8f51-71fd410e309f" /> <img width="16%" alt="image" src="https://github.com/user-attachments/assets/5ad4a64c-7d76-45e2-981e-f770f8f00e71" />
+
 
 
 ### 🌐 Web Development
