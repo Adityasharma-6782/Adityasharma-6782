@@ -76,11 +76,6 @@ Tech Used:
 
 ---
 
-## 🎬 Movie Genre Classifier
-
-Classifies movie genres using programming logic.
-
----
 
 ## 📚 DSA Repository
 
