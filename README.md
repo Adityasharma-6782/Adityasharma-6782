@@ -91,10 +91,6 @@ https://github.com/Adityasharma-6782
 💼 LinkedIn
 https://www.linkedin.com/in/aditya-sharma-830543339?
 
-
-📧 Email
-sharmaadi6782@gmail.com
-
 LeetCode
 https://leetcode.com/u/Aditya6782/
 
