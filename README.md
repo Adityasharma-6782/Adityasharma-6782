@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aditya Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;DSA+Enthusiast;Learning+Python+and+DBMS">
+<img src="https://medium.com/@DataScienceLens/data-science-from-scratch-a4916bb7ea6c">
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
 
