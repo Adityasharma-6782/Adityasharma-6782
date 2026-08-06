@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aditya Sharma
 
-<img src="https://medium.com/@DataScienceLens/data-science-from-scratch-a4916bb7ea6c">
+<img src="https://medium.com/@DataScienceLens/data-science-from-scratch-a4916bb7ea6c" width="100%">
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
 
