@@ -106,5 +106,3 @@ https://www.hackerrank.com/profile/adisharma_8107
 🚀 **Code → Debug → Improve → Repeat**
 
 ---
-
-⭐ If you like my work, consider **starring my repositories!**
