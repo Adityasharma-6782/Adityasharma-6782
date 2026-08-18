@@ -129,10 +129,10 @@ Machine learning project designed to identify potentially fraudulent job posting
 
 <br/>
 
-## ⏱️ Weekly Coding Activity (WakaTime)
+<!-- ## ⏱️ Weekly Coding Activity (WakaTime)
 
-<!-- Setup: install the WakaTime extension in VS Code, connect your GitHub account at
-     https://wakatime.com/github, then this block auto-updates every day. -->
+ Setup: install the WakaTime extension in VS Code, connect your GitHub account at
+     https://wakatime.com/github, then this block auto-updates every day. 
 
 <div align="center">
 
@@ -144,12 +144,14 @@ to auto-generate this section.
 </div>
 
 <br/>
+-->
 
+<!--
 ## ✍️ Latest Blog Posts
 
 <!-- Setup: use the "blog-post-workflow" GitHub Action to auto-pull your latest posts.
      Add your RSS feed (Medium/Hashnode/Dev.to) as a repo secret, then this list
-     updates automatically on every publish. -->
+     updates automatically on every publish. 
 
 <div align="center">
 
@@ -158,12 +160,13 @@ to auto-generate this section.
 </div>
 
 <br/>
+-->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityasharma-6782&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasharma-6782&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityasharma-6782&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&cache_seconds=1800" /> -->
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasharma-6782&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" /> -->
 </div>
 
 <div align="center">
@@ -176,11 +179,12 @@ to auto-generate this section.
 
 <br/>
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Adityasharma-6782&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
+</div> 
 
 <br/>
 
@@ -191,6 +195,7 @@ to auto-generate this section.
 </div>
 
 <br/>
+-->
 
 ## 📚 Currently Learning
 
@@ -198,13 +203,15 @@ to auto-generate this section.
 
 | Skill | Progress |
 |---|---|
-| Artificial Intelligence | ![80%](https://progress-bar.xyz/80/?width=250&color=00F7FF) |
-| Machine Learning | ![85%](https://progress-bar.xyz/85/?width=250&color=00F7FF) |
 | Data Science | ![80%](https://progress-bar.xyz/80/?width=250&color=00F7FF) |
-| FastAPI | ![75%](https://progress-bar.xyz/75/?width=250&color=7B2FFF) |
-| DSA | ![70%](https://progress-bar.xyz/70/?width=250&color=7B2FFF) |
+| Machine Learning | ![85%](https://progress-bar.xyz/85/?width=250&color=00F7FF) |
+| Artificial Intelligence | ![80%](https://progress-bar.xyz/80/?width=250&color=00F7FF) |
 | Deep Learning | ![60%](https://progress-bar.xyz/60/?width=250&color=FF6F00) |
+| FastAPI | ![30%](https://progress-bar.xyz/30/?width=250&color=7B2FFF) |
+| DSA | ![40%](https://progress-bar.xyz/40/?width=250&color=7B2FFF) |
+<!--
 | TensorFlow | ![55%](https://progress-bar.xyz/55/?width=250&color=FF6F00) |
+-->
 
 </div>
 
@@ -230,7 +237,7 @@ to auto-generate this section.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <!-- Replace the href below with your actual LinkedIn profile URL -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/aditya-sharma-830543339/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <!-- Uncomment and add your portfolio URL once ready
