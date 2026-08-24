@@ -60,13 +60,13 @@ mindset: Always learning something new 🌱
 
 **Web & Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,fastapi,django,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,fastapi&theme=dark" />
 
 <br/><br/>
 
 **Database & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,docker,vscode&theme=dark" />
 
 </div>
 
